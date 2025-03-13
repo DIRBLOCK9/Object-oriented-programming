@@ -1,0 +1,10 @@
+C:\Users\turlo\source\repos\ICE_2\ICE_2\bin\Debug\ICE_2.exe.config
+C:\Users\turlo\source\repos\ICE_2\ICE_2\bin\Debug\ICE_2.exe
+C:\Users\turlo\source\repos\ICE_2\ICE_2\bin\Debug\ICE_2.pdb
+C:\Users\turlo\source\repos\ICE_2\ICE_2\obj\Debug\ICE_2.csproj.AssemblyReference.cache
+C:\Users\turlo\source\repos\ICE_2\ICE_2\obj\Debug\ICE_2.Properties.Resources.resources
+C:\Users\turlo\source\repos\ICE_2\ICE_2\obj\Debug\ICE_2.csproj.GenerateResource.cache
+C:\Users\turlo\source\repos\ICE_2\ICE_2\obj\Debug\ICE_2.csproj.CoreCompileInputs.cache
+C:\Users\turlo\source\repos\ICE_2\ICE_2\obj\Debug\ICE_2.exe
+C:\Users\turlo\source\repos\ICE_2\ICE_2\obj\Debug\ICE_2.pdb
+C:\Users\turlo\source\repos\ICE_2\ICE_2\obj\Debug\ICE_2.Form1.resources
