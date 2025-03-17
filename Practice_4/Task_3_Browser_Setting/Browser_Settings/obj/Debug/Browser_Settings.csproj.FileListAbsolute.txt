@@ -1,0 +1,10 @@
+C:\Users\turlo\source\repos\Browser_Settings\Browser_Settings\bin\Debug\Browser_Settings.exe.config
+C:\Users\turlo\source\repos\Browser_Settings\Browser_Settings\bin\Debug\Browser_Settings.exe
+C:\Users\turlo\source\repos\Browser_Settings\Browser_Settings\bin\Debug\Browser_Settings.pdb
+C:\Users\turlo\source\repos\Browser_Settings\Browser_Settings\obj\Debug\Browser_Settings.csproj.AssemblyReference.cache
+C:\Users\turlo\source\repos\Browser_Settings\Browser_Settings\obj\Debug\Browser_Settings.Form1.resources
+C:\Users\turlo\source\repos\Browser_Settings\Browser_Settings\obj\Debug\Browser_Settings.Properties.Resources.resources
+C:\Users\turlo\source\repos\Browser_Settings\Browser_Settings\obj\Debug\Browser_Settings.csproj.GenerateResource.cache
+C:\Users\turlo\source\repos\Browser_Settings\Browser_Settings\obj\Debug\Browser_Settings.csproj.CoreCompileInputs.cache
+C:\Users\turlo\source\repos\Browser_Settings\Browser_Settings\obj\Debug\Browser_Settings.exe
+C:\Users\turlo\source\repos\Browser_Settings\Browser_Settings\obj\Debug\Browser_Settings.pdb
