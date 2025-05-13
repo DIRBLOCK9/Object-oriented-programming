@@ -1,14 +1,32 @@
 <Window
-    x:Class="PetStoreApp.MainWindow"
+    x:Class="Lab7.MainWindow"
+    xmlns:models="using:Lab7.Models"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-    xmlns:local="using:PetStoreApp"
-    xmlns:viewmodels="using:PetStoreApp.ViewModels"
-    xmlns:models="using:PetStoreApp.Models"
-    xmlns:commands="using:PetStoreApp.Commands">
+    xmlns:local="using:Lab7"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
 
-    <StackPanel Margin="20">
-        <TextBlock Text="Список тварин" FontSize="24" />
-        <Button x:Name="myButton" Content="Додати тварину" />
+    <StackPanel Padding="20">
+        <TextBlock FontSize="24" Text="Управління зоомагазином" Margin="0,0,0,10"/>
+
+        <TextBox x:Name="NameBox" PlaceholderText="Назва тварини" Margin="0,0,0,5"/>
+        <TextBox x:Name="SpeciesBox" PlaceholderText="Вид" Margin="0,0,0,5"/>
+        <TextBox x:Name="PriceBox" PlaceholderText="Ціна" Margin="0,0,0,5"/>
+        <TextBox x:Name="StockBox" PlaceholderText="Кількість на складі" Margin="0,0,0,10"/>
+
+        <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+            <Button Content="Додати" Click="Add_Click" Margin="0,0,10,0"/>
+            <Button Content="Видалити" Click="Delete_Click"/>
+        </StackPanel>
+
+        <ListView x:Name="AnimalList" Height="200">
+            <ListView.ItemTemplate>
+                <DataTemplate x:DataType="models:Animal">
+                    <TextBlock Text="{x:Bind Name}"/>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
     </StackPanel>
 </Window>
