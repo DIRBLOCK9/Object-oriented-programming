@@ -1,0 +1,10 @@
+C:\Users\turlo\source\repos\Authentication type 1\Authentication type 1\bin\Debug\Authentication type 1.exe.config
+C:\Users\turlo\source\repos\Authentication type 1\Authentication type 1\bin\Debug\Authentication type 1.exe
+C:\Users\turlo\source\repos\Authentication type 1\Authentication type 1\bin\Debug\Authentication type 1.pdb
+C:\Users\turlo\source\repos\Authentication type 1\Authentication type 1\obj\Debug\Authentication type 1.csproj.AssemblyReference.cache
+C:\Users\turlo\source\repos\Authentication type 1\Authentication type 1\obj\Debug\Authentication_type_1.Form1.resources
+C:\Users\turlo\source\repos\Authentication type 1\Authentication type 1\obj\Debug\Authentication_type_1.Properties.Resources.resources
+C:\Users\turlo\source\repos\Authentication type 1\Authentication type 1\obj\Debug\Authentication type 1.csproj.GenerateResource.cache
+C:\Users\turlo\source\repos\Authentication type 1\Authentication type 1\obj\Debug\Authentication type 1.csproj.CoreCompileInputs.cache
+C:\Users\turlo\source\repos\Authentication type 1\Authentication type 1\obj\Debug\Authentication type 1.exe
+C:\Users\turlo\source\repos\Authentication type 1\Authentication type 1\obj\Debug\Authentication type 1.pdb
