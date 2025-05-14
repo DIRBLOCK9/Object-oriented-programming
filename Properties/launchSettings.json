@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿{
   "$schema": "http://json.schemastore.org/launchsettings.json",
   "iisSettings": {
@@ -39,3 +40,15 @@
     }
   }
 }
+=======
+{
+  "profiles": {
+    "Lab7 (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Lab7 (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
+>>>>>>> ddc7f721d9fe2b425a25fb1dff10ffc705fe33ef
